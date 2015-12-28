@@ -5,7 +5,7 @@ This is a simple demo shows how to upload image from IOS app to Django server, w
 
 ```
 python manage.py migrate
-cd minimal-django-file-upload-example/src/for_django_1-8/myproject/
+cd myproject/
 python manage.py runserver 0.0.0.0:8000
 ```
 
